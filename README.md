@@ -4,7 +4,7 @@ End-to-end data analytics project analyzing customer purchasing patterns using *
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project analyzes retail customer transaction data to uncover purchasing trends, customer segments, and revenue drivers. It follows a complete analytics workflow: data cleaning and exploration in Python, business-question querying in SQL, visualization in Power BI, and a final report summarizing insights and recommendations.
 
@@ -12,7 +12,7 @@ This project analyzes retail customer transaction data to uncover purchasing tre
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Stage | Tool |
 |---|---|
@@ -23,7 +23,7 @@ This project analyzes retail customer transaction data to uncover purchasing tre
 
 ---
 
-## 🔎 Project Workflow
+## Project Workflow
 
 1. **Data Loading & Cleaning** — Imported the raw dataset into Python, handled missing values, fixed data types, and standardized categorical fields.
 2. **Exploratory Data Analysis (EDA)** — Used Python to explore distributions, outliers, and relationships between variables (e.g., spend by category, age, gender).
@@ -33,7 +33,7 @@ This project analyzes retail customer transaction data to uncover purchasing tre
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 The Power BI dashboard highlights:
 - Revenue breakdown by category, gender, and customer segment
@@ -41,12 +41,12 @@ The Power BI dashboard highlights:
 - Customer loyalty segmentation (New / Returning / Loyal)
 - Subscription status vs. spending patterns
 
-📁 Dashboard file: `customer_behavior_dashboard.pbix`
-🖼️ Screenshots: see `/screenshots` folder *(add if included)*
+Dashboard file: `customer_behavior_dashboard.pbix`
+Screenshots: see `/screenshots` folder *(add if included)*
 
 ---
 
-## 📈 Results & Key Insights
+## Results & Key Insights
 
 *(Replace with your actual findings — example structure below)*
 
@@ -57,7 +57,7 @@ The Power BI dashboard highlights:
 
 ---
 
-## ▶️ How to Run This Project
+## How to Run This Project
 
 **1. Clone the repository**
 ```bash
@@ -82,7 +82,7 @@ Open `customer_behavior_dashboard.pbix` in Power BI Desktop.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── customer_shopping_behavior.csv        # Raw dataset
