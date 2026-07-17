@@ -96,8 +96,4 @@ Open `customer_behavior_dashboard.pbix` in Power BI Desktop.
 
 ---
 
-## 📬 Contact
-
-**[Your Name]**
-[LinkedIn] · [Email] · [Portfolio site, if any]
 
